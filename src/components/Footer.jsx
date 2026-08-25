@@ -53,7 +53,13 @@ export default function Footer() {
               scale technical capability without scaling overhead.
             </p>
             <div className="flex gap-3 mt-6">
-              <a href="#" aria-label="LinkedIn" className="w-9 h-9 rounded-full border border-line flex items-center justify-center text-inkdim hover:text-white hover:bg-green hover:border-green hover:rotate-6 transition-all duration-300">
+              <a
+                href="https://www.linkedin.com/company/stafyin-technology"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="LinkedIn"
+                className="w-9 h-9 rounded-full border border-line flex items-center justify-center text-inkdim hover:text-white hover:bg-green hover:border-green hover:rotate-6 transition-all duration-300"
+              >
                 <LinkedinIcon />
               </a>
               <a href="#" aria-label="X (Twitter)" className="w-9 h-9 rounded-full border border-line flex items-center justify-center text-inkdim hover:text-white hover:bg-green hover:border-green hover:rotate-6 transition-all duration-300">

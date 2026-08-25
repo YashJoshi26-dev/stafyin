@@ -82,7 +82,7 @@ const TECH_MATRIX = [
   },
 ];
 
-const PARTNERS = ["TATA TCS", "GENPACT", "INFOSYS", "L&T TECH", "SYNECHRON"];
+const PARTNERS = [ "GENPACT", "INFOSYS", "L&T TECH", "SYNECHRON"];
 
 const PROCESS = [
   {
@@ -112,7 +112,7 @@ export default function Company() {
     <Layout>
       <SEO
         title="Company — Global Presence, Proven Capabilities"
-        description="Stafyin is a premier technology staffing partner: staff augmentation, SOW projects, RPO, and payroll solutions across APAC, delivered from Dallas TX and Indore, India."
+        description="Stafyin is a premier technology staffing partner: staff augmentation, SOW projects, RPO, and payroll solutions across APAC, delivered from Indore, India."
         path="/company"
       />
 
@@ -137,7 +137,7 @@ export default function Company() {
             processes, and agile payroll solutions.
           </p>
           <p className="text-inkdim leading-relaxed mt-4">
-            Leveraging state-of-the-art development spaces in Dallas, TX, and
+            Leveraging state-of-the-art development spaces in
             premium offshore facilities in Indore, India, we successfully
             service top-tier national and international clients with agility
             and scale.
