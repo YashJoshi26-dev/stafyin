@@ -110,7 +110,7 @@ export default function Footer() {
 
         <div className="mt-16 pt-8 border-t border-line flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-inkdim font-mono">
-            © {new Date().getFullYear()} STAFYIN. All rights reserved.
+            © {new Date().getFullYear()} STAFYIN TECHNOLOGY. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-xs text-inkdim hover:text-ink font-mono">Privacy Policy</a>
